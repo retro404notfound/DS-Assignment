@@ -16,3 +16,6 @@ Write a Python program to calculate clusters using the Hierarchical Clustering m
 
 Assignment 4:
 Design a Tableau dashboard on any one of this Sales Forecast Analysis Dashboard/Patient Risk Healthcare Dashboard/COVID Analytics dashboard. Use any suitable dataset to design a dashboard.
+
+Public Page for Tableau Assignment:
+https://public.tableau.com/app/profile/aman.kumar2684/viz/TYL_DS_ASSIGNMENT_4/Dashboard1?publish=yes
