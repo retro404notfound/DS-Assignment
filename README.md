@@ -12,9 +12,11 @@ Dataset link: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection  or em
 2)  Build a Random Forest Classifier and KNN to classify the CIFAR-10 images or any suitable image dataset.
 
 Assignment 3:
+
 Write a Python program to calculate clusters using the Hierarchical Clustering method. Perform Text analysis using topic modeling algorithms.
 
 Assignment 4:
+
 Design a Tableau dashboard on any one of this Sales Forecast Analysis Dashboard/Patient Risk Healthcare Dashboard/COVID Analytics dashboard. Use any suitable dataset to design a dashboard.
 
 Public Page for Tableau Assignment:
